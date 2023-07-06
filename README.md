@@ -12,7 +12,9 @@ Notes:
     chea7ng a5empt, which may lead to _FAILING_ the course.
     ______________________________________________________________________
 
-You have given the UML diagram below for an order management system. Your task is to write a
+![UML](https://github.com/Rasheed-Al-Qobbaj/COMP2310-Proj/blob/master/UML.PNG)
+
+You have given the UML diagram for an order management system. Your task is to write a
 complete Java program applying the OOP programming principles, mainly inheritance,
 polymorphism, and encapsula7on, to implement the program.
 Notes:
